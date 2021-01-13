@@ -1,0 +1,24 @@
+.card {
+    width: 600px;
+    margin: auto;
+}
+.title {
+    font-weight: bold;
+}
+.incorrect {
+    color:red;
+    font-weight: bold;
+}
+.correct {
+   color:green;
+   font-weight: bold;
+}
+.pending {
+    color: grey;
+}
+.content img {
+    width:200px;
+}
+.randomText {
+  margin-bottom: 1rem;
+}
