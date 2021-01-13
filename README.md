@@ -1,7 +1,7 @@
 # Typing
-# Developer: Ahitisham
-# Date :13/1/21
-# url : https://typing-weld-chi.vercel.app/
+## Developer: Ahitisham
+## Date :13/1/21
+## url : https://typing-weld-chi.vercel.app/
 
 ![ScreenShot](https://github.com/AngularProjects2021/typing/blob/main/Typing%20.jpg)
 
